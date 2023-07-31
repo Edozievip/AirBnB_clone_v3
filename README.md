@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Ifoghale Uzezi - [Github](https://github.com/ifouzezi) 
-Sunshine Edeh - [Github](https://github.com/) 
+Ezeh Christian - [Github](https://github.com/Edozievip) 
+Jereson Adjei - [Github](https://github.com/) 
 
 Second part of Airbnb: Joann Vuong
 ## License
